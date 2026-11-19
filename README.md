@@ -2,7 +2,7 @@
 
 **Ricky Gibson** · [@RickySapiens](https://github.com/RickySapiens) · Milano
 
-Studente di informatica, 17 anni. Scrivo codice, musica e racconti — a volte tutti e tre nella stessa settimana.
+Studente di informatica. Scrivo codice, musica e racconti — a volte tutti e tre nella stessa settimana.
 
 ## Progetti
 
@@ -20,12 +20,6 @@ La mia app musicale: un'applicazione scritta in **C#** con interfaccia in **HTML
 - **Java** — `BufferedReader`, eccezioni, array e classi
 - **Bash** — script per automatizzare le cose di tutti i giorni
 - **Git e GitHub** — versionamento, branch, primi repository
-
-## Cosa sto facendo
-
-- **MANNEQUIN EP** — progetto musicale
-- **MASKS** — cortometraggio horror indipendente
-- **Radio Punto** — collaborazione
 
 ## Interessi
 
