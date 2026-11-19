@@ -1,32 +1,32 @@
-# Ciao, sono Ricky 👋
+# Hi, I'm Ricky 👋
 
-**Ricky Gibson** · [@RickySapiens](https://github.com/RickySapiens) · Milano
+**Ricky Gibson** · [@RickySapiens](https://github.com/RickySapiens) · Milan
 
-Studente di informatica. Scrivo codice, musica e racconti — a volte tutti e tre nella stessa settimana.
+Computer science student. I write code, music and stories — sometimes all three in the same week.
 
-## Progetti
+## Projects
 
 ### 🎵 888App — Music App
 
-La mia app musicale: un'applicazione scritta in **C#** con interfaccia in **HTML, JavaScript e CSS** che legge una cartella di album e ne mostra tracklist, copertine e metadata di ogni traccia. Si possono anche creare nuovi album (sottocartella, file di testo e immagine di copertina) e modificare i dettagli di quelli esistenti.
+My music app: an application written in **C#** with an interface in **HTML, JavaScript and CSS** that reads a folder of albums and displays the tracklist, cover art and metadata of each track. You can also create new albums (subfolder, text file and cover image) and edit the details of existing ones.
 
 - Stack: C# (36.4%), HTML (52.2%), JavaScript (7.2%), CSS (4.2%)
-- Versione attuale: **888App V1.8**
+- Current version: **888App V1.8.4**
 - Repository: [github.com/RickySapiens/888App](https://github.com/RickySapiens/888App)
 
-## Cosa sto imparando
+## What I'm learning
 
-- **C** — liste collegate e gestione dei file
-- **Java** — `BufferedReader`, eccezioni, array e classi
-- **Bash** — script per automatizzare le cose di tutti i giorni
-- **Git e GitHub** — versionamento, branch, primi repository
+- **C** — linked lists and file handling
+- **Java** — `BufferedReader`, exceptions, arrays and classes
+- **Bash** — scripts to automate everyday things
+- **Git and GitHub** — version control, branches, first repositories
 
-## Interessi
+## Interests
 
-- Pianoforte classico da circa quattro anni, piano jazz da quest'anno
+- Classical piano for about four years, jazz piano since this year
 - Cinema
-- Musica
-- Videogiochi
+- Music
+- Video games
 ---
 
-*Questo README è anche il mio primo esercizio di Git: se qualcosa non funziona, probabilmente è un branch sbagliato.*
+*This README is also my first Git exercise: if something doesn't work, it's probably the wrong branch.*
