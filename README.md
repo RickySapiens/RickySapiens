@@ -11,8 +11,6 @@ Computer science student. I write code, music and stories — sometimes all thre
 My music app: an application written in **C#** with an interface in **HTML, JavaScript and CSS** that reads a folder of albums and displays the tracklist, cover art and metadata of each track. You can also create new albums (subfolder, text file and cover image) and edit the details of existing ones.
 
 - Stack: C# (36.4%), HTML (52.2%), JavaScript (7.2%), CSS (4.2%)
-- Current version: **888App V1.8.4**
-- Repository: [github.com/RickySapiens/888App](https://github.com/RickySapiens/888App)
 
 ## What I'm learning
 
